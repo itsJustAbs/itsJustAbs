@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsJustAbs
 - 👀 I’m interested in computer and stuff like that maybe a little games too
-- 🌱 I’m currently learning html, css, java, cuz of school
+- 🌱 I’m currently learning html, css, js, cuz of school and flutter/dart cuz why not
 - 💞️ I’m looking to collaborate on absulutely nothing
 - 📫 How to reach me u cant but if u realy want my discord is justabs
 - 😄 Pronouns: he/him
